@@ -1,5 +1,8 @@
 _repo: Friends-though-divided--A-Tale-of-the-Civil-War_11565
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Henty, G. A. (George Alfred)
@@ -11,6 +14,8 @@ creator:
     wikipedia: http://en.wikipedia.org/wiki/G._A._Henty
 description: Two young friends, Herbert Rippinghall and Harry Furness, find themselves
   on opposite sides of the conflict during the English Civil War.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/11565#Friends-though-divided--A-Tale-of-the-Civil-War
 gutenberg_bookshelf:
 - Children's Fiction
 - English Civil War
